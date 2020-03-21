@@ -1,4 +1,9 @@
+*.pro
+*.kicad_pcb
 *.sch
-*.epf
-*.s*
-*.brd
+*cache*
+*.lib
+*.bak
+*.kicad_pcb-bak
+icon*
+*ref*
