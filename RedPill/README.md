@@ -1,4 +1,5 @@
 # STM32 RedPill
+### Aditya Sehgal
 
 </p>This is a custom STM BluePill type development board that houses the STM32F103C8T6 and can be programmed using the Arduino IDE via an FTDI type adpator or the included USB port. In order to succesfully program the board over serial, you need to flash the Arduino bootloader on the MCU using either the STM Flasher as covered in the following tutorial:</p>
 https://www.youtube.com/watch?v=wGbiT6IxGP0<br>
